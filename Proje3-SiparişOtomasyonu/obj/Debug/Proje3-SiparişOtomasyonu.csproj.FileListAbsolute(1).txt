@@ -1,0 +1,16 @@
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe.config
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Form1.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Properties.Resources.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.KayıtForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.MainForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UListeleForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.GirisForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UCikarForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UEkleForm.resources
